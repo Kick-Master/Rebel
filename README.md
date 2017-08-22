@@ -1,2 +1,0 @@
-# Rebel
-For project purpose
